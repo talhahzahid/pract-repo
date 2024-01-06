@@ -1,0 +1,15 @@
+body{
+    background-color: black;
+    color: white;
+}
+h1{
+    text-align: center;
+    /* background-color: black; */
+    /* color: white; */
+}
+p{
+    font-size: larger;
+}
+img{
+    justify-content: space-around;
+}
